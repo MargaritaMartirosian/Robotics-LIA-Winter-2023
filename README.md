@@ -11,7 +11,9 @@ This repositorie consists of codes for my final robotics project.
 (SevenSegRobotCar.ino.ino -> Seven segement code ( 4 digits). )
 
 -------------PS4-ESP32-ARDUINO--------------
-
+(MOTOR.cpp -> Motor library , cpp file , used in Arduinoesp_may8b.ino)
+(MOTOR.h ->Motor library , header file , used in Arduinoesp_may8b.ino)
+(MOTOR.ino.ino ->Motor library , main file , used in Arduinoesp_may8b.ino)
 (MAC_address_myesp.ino -> get MAC address)
 (ps4_connect_test.ino -> Connect ps4 to esp32, show ps4 values on the serial monitor of the esp.)
 (ps4_test.ino -> Connect ps4 to esp32)
